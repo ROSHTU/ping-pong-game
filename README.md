@@ -27,7 +27,6 @@ To play the Ping Pong Game locally, follow these steps:
 2. Open the index.html file in your web browser to start playing the game.
 
 ## Usage
-- **Select Difficulty:** Choose between Hard and Insane difficulty levels before starting the game.
 - **Control Your Paddle:** Use the arrow keys or mouse to control your paddle and compete against the computer.
 - **Enjoy the Game:** Test your skills and see if you can beat the AI in both difficulty levels.
 
